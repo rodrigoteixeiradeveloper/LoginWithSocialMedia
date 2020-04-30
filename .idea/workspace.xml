@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="442a7eaf-21c8-4d4c-accb-9d249c640af4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="0e32da62-8e2c-431c-8aad-2c6ba920eed2" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-facebook" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-google" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/optimizer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-client" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZYZ0nm28meOOhp3MaZCC1lLUOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loginproject - Copia" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager">
+    <configuration name="loginproject" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.loginproject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="442a7eaf-21c8-4d4c-accb-9d249c640af4" name="Default Changelist" comment="" />
+      <created>1585017767861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585017767861</updated>
+      <workItem from="1585017769063" duration="1248000" />
+      <workItem from="1585258793777" duration="1207000" />
+      <workItem from="1585264838329" duration="4334000" />
+      <workItem from="1585270761251" duration="74000" />
+      <workItem from="1585271055974" duration="140000" />
+      <workItem from="1585272492443" duration="94000" />
+      <workItem from="1586058497054" duration="601000" />
+      <workItem from="1586394569345" duration="48000" />
+      <workItem from="1586395036600" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="219" key="#CLI_Interpreters" timestamp="1585017855526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="219" key="#CLI_Interpreters/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585017855526" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585266844772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585266844772" />
+    <state x="644" y="157" width="645" height="725" key="#loginproject" timestamp="1585269435876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="157" width="645" height="725" key="#loginproject/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585269435876" />
+    <state x="736" y="433" width="447" height="261" key="ComposerInitDialogKey" timestamp="1585017861510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="433" width="447" height="261" key="ComposerInitDialogKey/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585017861510" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586395101136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586395101136" />
+    <state x="846" y="124" key="SettingsEditor" timestamp="1585267143885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="846" y="124" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585267143885" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585270763868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585270763868" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585264842245" />
+  </component>
+</project>
